@@ -1,4 +1,4 @@
 # kooransvr
-web site for kooransvr.com
+web site for www.kooransvr.com
 
 
